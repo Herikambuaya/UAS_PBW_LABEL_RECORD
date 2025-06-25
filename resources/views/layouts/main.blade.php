@@ -100,7 +100,7 @@
         <div class="row">
             <div class="col-md-12 bg-dark text-white py-3">
                 <h1 class="text-white monospace">
-                    <i class="bi bi-music-note"></i> Artistic-Records
+                    <i class="bi bi-music-note"></i> Label-Records
                     <i class="bi bi-cassette"></i>
                     <!-- Dropdown User -->
                     <div class="dropdown float-right">
@@ -136,7 +136,7 @@
     </div>
     <!-- FOOTER -->
     <footer class="bg-dark text-white py-3">
-        <p class="text-center monospace mb-1">template by <a href="" class="footer-link">Stevan Tarigan</a></p>
+        <p class="text-center monospace mb-1">template by <a href="" class="footer-link">Herman Kambuaya</a></p>
     </footer>
 
 

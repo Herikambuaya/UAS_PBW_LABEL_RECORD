@@ -5,7 +5,7 @@
     <div class="card-header"></div>
     <div class="card-body">
         <form action="/update/{{$l->id}}" method="POST" enctype="multipart/form-data">
-            @csrf
+            @csrf       
             @method('PUT')
             <div class="form-group">
                 <label>Label Name</label>

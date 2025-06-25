@@ -13,7 +13,7 @@ class CreateLabelRecord598Table extends Migration
      */
     public function up()
     {
-        Schema::create('label_record_598', function (Blueprint $table) {
+        Schema::create('label_record_589', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('lableName', 100);
             $table->string('adress', 100);
@@ -39,6 +39,6 @@ class CreateLabelRecord598Table extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('label_record_598');
+        Schema::dropIfExists('label_record_589');
     }
 }
